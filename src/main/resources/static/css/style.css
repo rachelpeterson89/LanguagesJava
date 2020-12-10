@@ -1,0 +1,31 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+#a {
+	text-decoration: none;
+	color:white;
+}
+
+label {
+	color:white;
+}
+
+p {
+	color:white;
+}
+
+html {
+	font-size: 10px;
+	font-family: Arial, sans-serif;
+	color: white;
+}
+
+body {
+	width: 100%;
+	height: 100vh;
+	color: #fff;
+	background: linear-gradient(-45deg, peachpuff, #EE7752, #EE7552, #E74C7E, #E73C7E);
+}
